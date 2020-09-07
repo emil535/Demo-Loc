@@ -12,8 +12,8 @@ class ChartDetailTVC: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        navigationItem.title =  "Localization Demo"
-        navigationItem.prompt = "Version 1.2"
+        navigationItem.title =  "Localization"
+        navigationItem.prompt = "Version 1.2.1"
     }
     
     // MARK: - Navigation
